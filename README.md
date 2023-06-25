@@ -1,4 +1,4 @@
-INTRODUCTION
+1.INTRODUCTION
 The use of machine learning techniques to forecast dengue virus cases has improved the accuracy of 
 disease prediction, which is crucial for effective disease control and prevention. With the help of These 
 Algorithms in the medical sector helps to analyze the disease and patterns of change with respective to 
